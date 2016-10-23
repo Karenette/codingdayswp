@@ -23,5 +23,17 @@
 </head>
 <body>
 	<header class="header">
-		<!-- Vous pouvez mettre ici toutes les infos que vous voulez retrouver dans le header de toutes vos pages  -->
+		<!-- Ceci est le titre de ma page -->
+		<p class="Titre">Happy Conciergerie</p>
+		<nav>
+			<ul>
+				<li><a href="Page_Accueil.html">Accueil</a><li>
+				<li>La Conciergerie</li>
+				<li>Nos services</li>
+				<li>Abonnements</li>
+				<li>Actualités</li>
+				<li>Nos Partenaires<li>
+											</ul>
+		</nav>
+
 	</header>
